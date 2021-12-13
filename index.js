@@ -1,1 +1,1 @@
-kkk
+var x;
